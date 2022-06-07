@@ -1,9 +1,10 @@
 # gmine-ravencoin-veriz0wn-pool
 gMine RavenCoin using Veriz0wn Mining Pool
 
-## How to get started
+# Required!!!
  + AMD Graphics Card is required!!!
 
+## How to get started
 1. Download gMine here, or use desktop clone.
  + https://github.com/Curt-Lucas/gmine-ravencoin-veriz0wn-pool/archive/refs/tags/v1.0.0.zip
 2. Edit "Start Mining.dat" by opening in notepad or equivalent.
