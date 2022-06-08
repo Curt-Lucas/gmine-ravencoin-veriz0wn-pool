@@ -13,3 +13,5 @@ gMine RavenCoin using Veriz0wn Mining Pool
 3. Double-click "Start Mining.dat" to start mining.
 4. ...
 5. Profit
+
+## Daily deposits straight to your wallet!
