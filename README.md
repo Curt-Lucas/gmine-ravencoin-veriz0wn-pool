@@ -1,6 +1,8 @@
 # gmine-ravencoin-veriz0wn-pool
 gMine RavenCoin using Veriz0wn Mining Pool
 
+![alt text](https://veriz0wn.com/screenshot.jpg)
+
 # Required!!!
  + AMD Graphics Card is required!!!
 
